@@ -1,5 +1,7 @@
 "use strict";
 
+console.log("cherry-pick");
+
 function alertFn(data) {
   document.write(data);
 }
