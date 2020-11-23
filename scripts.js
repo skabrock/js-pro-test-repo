@@ -1,8 +1,13 @@
 "use strict";
 
+function testFn() {
+  console.log("test3");
+}
+
 function test() {
-  console.log("test");
-  console.log("test2");
+  console.log("test new function");
 }
 
 test();
+
+testFn();
