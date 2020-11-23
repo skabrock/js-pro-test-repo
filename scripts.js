@@ -1,5 +1,7 @@
 "use strict";
 
+alert("Error!");
+
 function testFn() {
   console.log("test3");
 }
