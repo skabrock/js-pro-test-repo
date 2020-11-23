@@ -1,5 +1,11 @@
 "use strict";
 
+function alertFn(data) {
+  document.write(data);
+}
+
+alertFn("Error");
+
 function testFn() {
   console.log("test3");
 }
