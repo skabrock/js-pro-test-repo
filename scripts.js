@@ -1,6 +1,10 @@
 "use strict";
 
-alert("Error!");
+function alertFn(data) {
+  document.write(data);
+}
+
+alertFn("Error");
 
 function testFn() {
   console.log("test3");
